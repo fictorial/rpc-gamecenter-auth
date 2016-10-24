@@ -1,0 +1,20 @@
+{
+  "name": "rpc-gamecenter-auth",
+  "version": "1.0.0",
+  "description": "Apple GameCenter authentication handler for rpc-over-ws",
+  "keywords": ["GameCenter", "Authentication", "RPC"],
+  "author": "Brian Hammond <brian@fictorial.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gamecenter-identity-verifier": "^0.1.1",
+    "normalize-user-alias": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpc-gamecenter-auth.git"
+  },
+  "homepage": "https://github.com/rpc-gamecenter-auth.git",
+  "bugs": {
+    "url": "https://github.com/rpc-gamecenter-auth/issues"
+  }
+}
